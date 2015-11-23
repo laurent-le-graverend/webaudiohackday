@@ -5,6 +5,7 @@ WebAudio Hack Day at DevFest.Asia 2015
 
 ## Projects
 
+- [Beatbox Decoder](https://github.com/laurent-le-graverend/beatbox-decoder) - [Laurent Le Graverend](https://github.com/laurent-le-graverend), [Gilles Piou](https://github.com/pioug) and [Joe Sarre Biton](https://github.com/joesarre)
 - [Korg NanoKontrol support for JSM Player](https://github.com/sonoport/jsmplayer) - [Chinmay](https://github.com/notthetup/)
 - [LineOut.js](https://github.com/nbiton/LineOut) - [Tan Shiaw Uen](https://github.com/shiawuen) and [Naor Biton](https://github.com/nbiton)
 
